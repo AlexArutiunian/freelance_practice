@@ -3,15 +3,17 @@
 In this work, it was necessary to collect data on 478 artscholls.
 I automate the collection of TIN(ИНН) and geolocation.
 
-## Geolacation
-For parsing of geolacation in google maps I used selenium and web-driver chrome.
+I found [the ad](https://vk.com/moneymipt?w=wall-57876679_8598) in this group ['Клуб любителей денег'](https://vk.com/moneymipt)
+
+### Geolacation
+For parsing of geolacation in google maps I use selenium and web-driver chrome.
 The instruction about this is on [the link](https://www.geeksforgeeks.org/how-to-scrape-data-from-google-maps-using-python/)
 
-## INN
+### INN
 
 This decision is based on the [discussion](https://stackoverflow.com/questions/22623798/google-search-with-python-requests-library) on the stakoverflow.
 
-## Something about browsers...
+### Something about browsers...
 
 Yandex is more closed to parse the request in comparison with Google.
 Because I use exactly google.
