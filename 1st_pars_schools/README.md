@@ -4,7 +4,7 @@ In this work, it was necessary to collect data on 478 artscholls.
 I automate the collection of TIN(ИНН) and geolocation.
 
 ## Geolacation
-For parsing of geolacation in google maps I use selenium and web-driver chrome.
+For parsing of geolacation in google maps I used selenium and web-driver chrome.
 The instruction about this is on [the link](https://www.geeksforgeeks.org/how-to-scrape-data-from-google-maps-using-python/)
 
 ## INN
