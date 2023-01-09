@@ -9,7 +9,7 @@ I found [the ad](https://vk.com/moneymipt?w=wall-57876679_8598) in this group ['
 For parsing of geolacation in google maps I use selenium and web-driver chrome.
 The instruction about this is on [the link](https://www.geeksforgeeks.org/how-to-scrape-data-from-google-maps-using-python/)
 
-### INN
+### TIN(ИНН)
 
 This decision is based on the [discussion](https://stackoverflow.com/questions/22623798/google-search-with-python-requests-library) on the stakoverflow.
 
