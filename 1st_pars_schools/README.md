@@ -15,8 +15,8 @@ This decision is based on the [discussion](https://stackoverflow.com/questions/2
 
 ### Something about browsers...
 
-Yandex is more closed to parse the request in comparison with Google.
-Because I use exactly google.
+Yandex is more closed to parse the request in comparison with Google,
+so I used exactly google.
 
 Also in some cases there was google recaptcha (after 100 requests).
 I won it with vpn and changing wi-fi network. 
