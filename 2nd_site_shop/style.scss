@@ -1,0 +1,100 @@
+$black: #000000;
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Logo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.up{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    background-color: $black;
+}
+
+.nav{
+    display: flex;
+    list-style-type: none;
+    padding-left: 0;
+    &-item{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    &-link{
+        color: white;
+        text-decoration: 0;
+    }
+}
+.up{
+    max-width: 100%;
+    margin: 0 auto
+}
+
+.collage{
+    margin-top: 5%;
+    margin-left: 60%;
+    margin-right: 5%; 
+}
+
+.text_intro{
+    margin-top: -25%;
+    margin-left: 100px; 
+    margin-right: 40%;
+    text-decoration: 0;
+    list-style-type: none;
+}
+
+.more_info{
+    margin-top: 10%;
+    margin-left: 100px; 
+    margin-right: 40%;
+    text-decoration: 0;
+    list-style-type: none;
+}
+
+.view_prod{
+    margin-top: 0%;
+    margin-left: 100px; 
+    margin-right: 40%;
+    text-decoration: 0;
+    list-style-type: none;
+}
+
+.down_main{
+    margin-top: 5%;
+    text-decoration: 0;
+    list-style-type: none;
+}
+
+.anchor{
+    color: white;
+}
+
+.desc1{
+    margin-top: 5%;
+    margin-left: 100px; 
+    margin-right: 40%;
+    margin-bottom: 10%;
+    text-decoration: 0;
+    list-style-type: none;
+}
+.desc2{
+    margin-top: 5%;
+    margin-left: 50%; 
+    margin-right: 5%;
+    margin-bottom: 10%;
+    text-decoration: 0;
+    list-style-type: none;
+}
+.desc3{
+    margin-top: 5%;
+    margin-left: 100px; 
+    margin-right: 40%;
+    margin-bottom: 10%;
+    text-decoration: 0;
+    list-style-type: none;
+}
