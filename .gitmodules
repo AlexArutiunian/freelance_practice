@@ -1,0 +1,3 @@
+[submodule "site_for_shipshina"]
+	path = site_for_shipshina
+	url = https://github.com/AlexArutiunian/site_for_shipshina
